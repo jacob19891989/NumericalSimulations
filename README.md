@@ -1,2 +1,2 @@
 # NumericalSimulations
-some numerical simulation excercises
+some numerical simulation exercises
